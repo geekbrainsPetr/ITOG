@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\выбор специализации\bin\Debug\net6.0\выбор специализации.exe
+C:\Users\PC\Desktop\выбор специализации\bin\Debug\net6.0\выбор специализации.deps.json
+C:\Users\PC\Desktop\выбор специализации\bin\Debug\net6.0\выбор специализации.runtimeconfig.json
+C:\Users\PC\Desktop\выбор специализации\bin\Debug\net6.0\выбор специализации.dll
+C:\Users\PC\Desktop\выбор специализации\bin\Debug\net6.0\выбор специализации.pdb
+C:\Users\PC\Desktop\выбор специализации\obj\Debug\net6.0\выбор специализации.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\выбор специализации\obj\Debug\net6.0\выбор специализации.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\выбор специализации\obj\Debug\net6.0\выбор специализации.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\выбор специализации\obj\Debug\net6.0\выбор специализации.AssemblyInfo.cs
+C:\Users\PC\Desktop\выбор специализации\obj\Debug\net6.0\выбор специализации.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\выбор специализации\obj\Debug\net6.0\выбор специализации.dll
+C:\Users\PC\Desktop\выбор специализации\obj\Debug\net6.0\refint\выбор специализации.dll
+C:\Users\PC\Desktop\выбор специализации\obj\Debug\net6.0\выбор специализации.pdb
+C:\Users\PC\Desktop\выбор специализации\obj\Debug\net6.0\выбор специализации.genruntimeconfig.cache
+C:\Users\PC\Desktop\выбор специализации\obj\Debug\net6.0\ref\выбор специализации.dll
